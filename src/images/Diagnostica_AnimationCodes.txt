@@ -1,0 +1,163 @@
+Boton toggle
+
+<div style={{width: '100%', height: '100%', position: 'relative', borderRadius: 5, overflow: 'hidden', border: '0.50px #9747FF dotted'}}>
+    <div style={{width: 42.81, height: 22.97, left: 12, top: 55, position: 'absolute'}}>
+        <div style={{width: 42.81, height: 22.94, left: 0, top: 0.03, position: 'absolute', background: '#BEBEBE'}}></div>
+        <div style={{width: 23, height: 22, left: 1.41, top: 0, position: 'absolute', background: 'white'}}></div>
+    </div>
+    <div style={{width: 42.81, height: 22.97, left: 11, top: 14, position: 'absolute'}}>
+        <div style={{width: 42.81, height: 22.94, left: 0, top: 0.03, position: 'absolute', background: '#BEBEBE'}}></div>
+        <div style={{width: 23, height: 22, left: 1.41, top: 0, position: 'absolute', background: 'white'}}></div>
+    </div>
+    <div style={{width: 42.81, height: 22.97, left: 85, top: 55, position: 'absolute'}}>
+        <div style={{width: 42.81, height: 22.94, left: 0, top: 0.03, position: 'absolute', background: '#4FE0FF'}}></div>
+        <div style={{width: 23, height: 22, left: 19, top: 0, position: 'absolute', background: 'white'}}></div>
+    </div>
+    <div style={{width: 42.81, height: 22.97, left: 84, top: 14, position: 'absolute'}}>
+        <div style={{width: 42.81, height: 22.94, left: 0, top: 0.03, position: 'absolute', background: '#4FE0FF'}}></div>
+        <div style={{width: 23, height: 22, left: 19, top: 0, position: 'absolute', background: 'white'}}></div>
+    </div>
+    <div style={{width: 42.81, height: 22.97, left: 15, top: 90.97, position: 'absolute'}}>
+        <div style={{width: 42.81, height: 22.94, left: 0, top: 0.03, position: 'absolute', background: '#89C3CF'}}></div>
+        <div style={{width: 26, height: 23, left: 8, top: 0.06, position: 'absolute', background: 'white'}}></div>
+    </div>
+    <div style={{width: 42.81, height: 22.97, left: 84.81, top: 90.97, position: 'absolute'}}>
+        <div style={{width: 42.81, height: 22.94, left: 0, top: 0.03, position: 'absolute', background: '#89C3CF'}}></div>
+        <div style={{width: 26, height: 23, left: 8, top: 0.06, position: 'absolute', background: 'white'}}></div>
+    </div>
+</div>
+
+
+
+
+Boton click para comenzar
+
+<div style={{width: '100%', height: '100%', position: 'relative', borderRadius: 5, overflow: 'hidden', border: '0.50px #9747FF dotted'}}>
+    <div style={{width: 277, height: 57, left: 14, top: 113.04, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 277, height: 57, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+            <div style={{width: 277, height: 57, position: 'relative', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+                <div style={{width: 277, height: 57, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+                    <div style={{width: 277, height: 57, background: '#4FE0FF', borderRadius: 17}}></div>
+                </div>
+                <div style={{color: 'white', fontSize: 14, fontFamily: 'Open Sans', fontWeight: '600', wordWrap: 'break-word'}}>PRESIONA PARA COMENZAR</div>
+            </div>
+        </div>
+    </div>
+    <div style={{width: 259.77, height: 50.04, paddingTop: 3, paddingLeft: 4, left: 22, top: 9, position: 'absolute', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 259.77, height: 50.04, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+            <div style={{width: 259.77, height: 50.04, position: 'relative', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+                <div style={{width: 259.77, height: 50.04, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+                    <div style={{width: 259.77, height: 50.04, background: '#9041F0', borderRadius: 17}}></div>
+                </div>
+                <div style={{width: 184.44, height: 17.44, color: 'white', fontSize: 13, fontFamily: 'Open Sans', fontWeight: '600', wordWrap: 'break-word'}}>PRESIONA PARA COMENZAR</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+Reloj
+
+<div style={{width: '100%', height: '100%', position: 'relative', borderRadius: 5, overflow: 'hidden', border: '0.50px #9747FF dotted'}}>
+    <div style={{width: 85, height: 97.48, left: 27, top: 29, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 27, left: 42, top: 28, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 27, top: 169, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 26.87, left: 61, top: 36, position: 'absolute', transform: 'rotate(45deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 146, top: 29, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 27, left: 69, top: 55, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 147, top: 164, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 26.87, left: 61, top: 74, position: 'absolute', transform: 'rotate(135deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 265, top: 29, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 27, left: 42, top: 82, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 265, top: 164, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 26.87, left: 23, top: 74, position: 'absolute', transform: 'rotate(-135deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 384, top: 29, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 27, left: 15, top: 55, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+    <div style={{width: 85, height: 97.48, left: 384, top: 164, position: 'absolute'}}>
+        <div style={{width: 85, height: 97.48, left: -0, top: -0, position: 'absolute'}}>
+            <div style={{width: 85, height: 85, left: 0, top: 12.48, position: 'absolute', border: '5.50px #9041F0 solid'}}></div>
+            <div style={{width: 28.85, height: 0, left: 28.07, top: 0, position: 'absolute', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+        </div>
+        <div style={{width: 0, height: 26.87, left: 23, top: 36, position: 'absolute', transform: 'rotate(-45deg)', transformOrigin: '0 0', opacity: 0.40, border: '5px #292D32 solid'}}></div>
+    </div>
+</div>
+
+
+
+
+Generando interpretacion
+
+<div style={{width: '100%', height: '100%', position: 'relative', borderRadius: 5, overflow: 'hidden', border: '0.50px #9747FF dotted'}}>
+    <div style={{width: 860, height: 61, left: 34, top: 20, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center', color: '#B7B7B7', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'}}>Generando interpretación</div>
+    </div>
+    <div style={{width: 860, height: 61, left: 34, top: 122, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center'}}><span style="color: '#9747FF', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">Gener</span><span style="color: '#B7B7B7', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">ando interpretación</span></div>
+    </div>
+    <div style={{width: 860, height: 61, left: 34, top: 225, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center'}}><span style="color: '#9041F0', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">Generando</span><span style="color: '#B7B7B7', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'"> interpretación</span></div>
+    </div>
+    <div style={{width: 860, height: 61, left: 34, top: 329, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center'}}><span style="color: '#9041F0', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">Generando inter</span><span style="color: '#B7B7B7', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">pretación</span></div>
+    </div>
+    <div style={{width: 860, height: 61, left: 34, top: 437, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center'}}><span style="color: '#9041F0', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">Generando interpreta</span><span style="color: '#B7B7B7', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'">ción</span></div>
+    </div>
+    <div style={{width: 860, height: 61, left: 34, top: 539, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center', color: '#9041F0', fontSize: 56, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'}}>Generando interpretación</div>
+    </div>
+    <div style={{width: 860, height: 61, left: 34, top: 642, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div style={{width: 860, height: 61, textAlign: 'center', color: '#B7B7B7', fontSize: 55, fontFamily: 'Open Sans', fontWeight: '700', textTransform: 'uppercase', wordWrap: 'break-word'}}>Generando interpretación</div>
+    </div>
+</div>
+
+
+
+
+<div style={{width: '100%', height: '100%', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div style={{width: 230, color: 'black', fontSize: 12, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>maria98@email.com </div>
+</div>
+
+
+
+
+<div style={{width: '100%', height: '100%', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div style={{width: 230, color: 'black', fontSize: 12, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>********</div>
+</div>
