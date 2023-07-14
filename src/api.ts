@@ -19,7 +19,7 @@ export async function getResponse(message: String): Promise<String>{
     url: 'https://api.openai.com/v1/chat/completions',
     headers: { 
       'Content-Type': 'application/json', 
-      'Authorization': 'Bearer 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'
+      'Authorization': 'Bearer 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'
     },
     data : data
   };
